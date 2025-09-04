@@ -6,7 +6,7 @@
 
 💻 Tenho 17 anos e atualmente estou cursando **Desenvolvimento de Sistemas**.  
 🌍 Meu sonho é me tornar um **Desenvolvedor Full Stack**.  
-📚 Estou aprendendo e praticando com **HTML, CSS, JavaScript, Node.js, React e MongoDB**.  
+📚 Estou aprendendo e praticando com **HTML, CSS, JavaScript, Node.js, React e MySql**.  
 ⚡ Curto desafios, resolver problemas e transformar ideias em projetos reais.  
 
 ---
