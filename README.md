@@ -14,7 +14,7 @@
 ## 🛠️ Tecnologias que estou aprendendo:
 - **Frontend:** HTML, CSS, JavaScript, React  
 - **Backend:** Node.js, Express  
-- **Banco de Dados:** MongoDB  
+- **Banco de Dados:** Mysql  
 - **Ferramentas:** Git & GitHub  
 
 ---
